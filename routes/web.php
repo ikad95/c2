@@ -11,4 +11,4 @@
 |
 */
 
-Route::get('/',["uses"=>"NewBotController@hi"]);
+Route::get('/addme',["uses"=>"NewBotController@hi"]);

@@ -12,4 +12,7 @@ class TestController extends Controller{
     public function hi(){
         return view('Charts.chart');
     }
+    public function xrp(){
+        return view('ind');
+    }
 }

@@ -13,3 +13,4 @@
 
 Route::get('/addme',["uses"=>"NewBotController@hi"]);
 Route::get('/test',["uses" => "TestController@hi"]);
+Route::get('/xrp',["uses" => "TestController@xrp"]);

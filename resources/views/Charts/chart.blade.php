@@ -3,10 +3,7 @@
 <body>
 <div id="cost-div"></div>
 <div id="aroon-div"></div>
-<div id="coindesk-widget" data-size="mpu" data-align="right" ></div>
-
 </body>
-<script type="text/javascript" src="//widget.coindesk.com/bpiticker/coindesk-widget.min.js"></script>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script type="text/javascript">

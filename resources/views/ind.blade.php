@@ -106,7 +106,7 @@ $(document).ready( function () {
                         tot-=data[i-N][1];
                       }
 
-                      var N = 200;
+                      var N = 5000;
                       tot = 0;
                       for(var i = 0; i < N; i++){       
                         movingAverageSlow.push([data[i][0],tot/i]);
